@@ -1,0 +1,14 @@
+{
+  "name": "qrgen",
+  "version": "1.0.0",
+  "description": "app that generates qr codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Harris",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.1.0"
+  }
+}
